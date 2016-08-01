@@ -1,2 +1,2 @@
 # LearningRuby
-A little project to pratice ruby
+A little project to practice ruby
