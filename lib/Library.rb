@@ -11,7 +11,8 @@ class Library
     @books[book.category] << book
   end
 
-  def books
-    @books.values.flatten
-  end
+  # def books
+  #   @books.values.flatten
+  # end
+  
 end
