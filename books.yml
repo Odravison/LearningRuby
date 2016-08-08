@@ -1,0 +1,31 @@
+--- !ruby/object:Book
+author: Mauricio Aniche
+tittle: Learning Ruby
+isbn_code: 247
+number_of_pages: '123454'
+price: 70.5
+category: :teste
+
+--- !ruby/object:Book
+author: Tárcio Zemel
+tittle: Ruby On Rails
+isbn_code: 189
+number_of_pages: '452565'
+price: 67.9
+category: :web_design
+--- !ruby/object:Book
+author: Mauricio Aniche
+tittle: Learning Ruby
+isbn_code: 247
+number_of_pages: '123454'
+price: 70.5
+category: :teste
+
+--- !ruby/object:Book
+author: Tárcio Zemel
+tittle: Ruby On Rails
+isbn_code: 189
+number_of_pages: '452565'
+price: 67.9
+category: :web_design
+
